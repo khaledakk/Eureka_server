@@ -1,4 +1,4 @@
-package com.seddik.mcroservice_project.eureka_server;
+package tn.khaled.eureka_server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

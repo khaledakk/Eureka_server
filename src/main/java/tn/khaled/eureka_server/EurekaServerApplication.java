@@ -1,4 +1,4 @@
-package com.seddik.mcroservice_project.eureka_server;
+package tn.khaled.eureka_server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
